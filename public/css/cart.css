@@ -1,0 +1,16 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+#title{
+	padding-top: 3%;
+	padding-bottom: 3%;
+	
+}
+
+#formCart{
+	margin-top: 3%;
+	border: pink thin solid;
+	padding: 2%;
+}
